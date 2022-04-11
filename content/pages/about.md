@@ -9,13 +9,40 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Soy Virginia, pero me gusta que me hablen por Viike :)
+> Recien Egrese de la Carrera en Ciencias de la informática
+> Me encuentro realizando mis prácticas profesionales
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**Me encanta aprender cada dia** El conocer esta comunidad me ha ayudado
+demasiado, no tenia idea de todo este mundo antes de la pandemia, me encantaria
+poder aprender muy bien Js, ya que es mi lenguaje favorito. 
+
+### Acontecimientos importantes de mi carrera de IT
+- Obtuve la certificación AZ-900 de azure 🤩
+- He aprendido programación por mi cuenta.
+- He aprendido a usar git
+- Termine un curso de ingles de British Counsil
+- Egrese de la carrera
+- Di asesorias de Algebra lineal en la escuela
+- Participe en mi primer hackathon 
+- Enfrente una gran entrevista, fue dificil.
+
+## Mis metas
+- Dominar js excelente
+- Mejorar mi inglés
+- Conseguir el empleo que me propuse
+- Mejorar mis habilidades blandas
+- Crear contenido educativo
+- Viajar por toda la republica
+- Ayudar quien me necesite
+- Disfrutar cada dia
+- Saber manejar mis emociones y estres
+- Mejorar mi alimentación y ejercicio
+- Trabajar en una empresa Global
+- Ser una persona humilde y empática
+- ser agradecida siempre.
+
+Espero que mis metas sean cumplidas y/o pueda mejorar las muy pronto.
+
+- 
 
