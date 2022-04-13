@@ -7,7 +7,7 @@ menu:
 
 ## Who am I
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+-  Hola, aquí vas a leer un poco sobre mi 🤩
 
 > Soy Virginia, pero me gusta que me hablen por Viike :)
 > Recien Egrese de la Carrera en Ciencias de la informática
@@ -15,9 +15,9 @@ Hola, aquí vas a leer un poco sobre mi 🤩
 
 **Me encanta aprender cada dia** El conocer esta comunidad me ha ayudado
 demasiado, no tenia idea de todo este mundo antes de la pandemia, me encantaria
-poder aprender muy bien Js, ya que es mi lenguaje favorito. 
+poder aprender y mejorar mis conocimientos en programación. 
 
-### Acontecimientos importantes de mi carrera de IT
+## Acontecimientos importantes de mi carrera de IT
 - Obtuve la certificación AZ-900 de azure 🤩
 - He aprendido programación por mi cuenta.
 - He aprendido a usar git
@@ -28,9 +28,8 @@ poder aprender muy bien Js, ya que es mi lenguaje favorito.
 - Enfrente una gran entrevista, fue dificil.
 
 ## Mis metas
-- Dominar js excelente
+- Dominar la programación.
 - Mejorar mi inglés
-- Conseguir el empleo que me propuse
 - Mejorar mis habilidades blandas
 - Crear contenido educativo
 - Viajar por toda la republica
@@ -38,11 +37,7 @@ poder aprender muy bien Js, ya que es mi lenguaje favorito.
 - Disfrutar cada dia
 - Saber manejar mis emociones y estres
 - Mejorar mi alimentación y ejercicio
-- Trabajar en una empresa Global
-- Ser una persona humilde y empática
-- ser agradecida siempre.
 
 Espero que mis metas sean cumplidas y/o pueda mejorar las muy pronto.
 
-- 
 
